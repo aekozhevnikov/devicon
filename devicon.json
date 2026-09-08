@@ -15878,6 +15878,24 @@
         "aliases": []
     },
     {
+        "name": "yandexcloud",
+        "altnames": [],
+        "tags": [
+            "cloud",
+            "hosting",
+            "server",
+            "yandex"
+        ],
+        "versions": {
+            "svg": [
+                "original-wordmark"
+            ],
+            "font": []
+        },
+        "color": "#00BCE6",
+        "aliases": []
+    },
+    {
         "name": "yugabytedb",
         "altnames": [],
         "tags": [
